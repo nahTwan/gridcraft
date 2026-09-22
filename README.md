@@ -51,3 +51,7 @@ The first release is intentionally scoped as a polished portfolio project. It
 uses production-style organization, tests, documentation, and automation
 without unnecessary large-scale infrastructure.
 
+
+## Why I'm Building This
+
+I've been watching Formula 1 since eighth grade, and I wanted to build a project around something I enjoy. With GridCraft, I want to improve my full-stack development skills and learn how to use race data to simulate strategy decisions.
