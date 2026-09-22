@@ -1,0 +1,38 @@
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+*.iml
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# JavaScript
+node_modules/
+dist/
+coverage/
+*.log
+
+# Java and Spring
+.gradle/
+build/
+target/
+out/
+
+# Python and data work
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local databases and generated data
+*.db
+*.sqlite
+data/raw/
+data/processed/
+data/models/
+
