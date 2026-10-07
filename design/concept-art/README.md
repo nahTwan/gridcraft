@@ -1,6 +1,6 @@
 # GridCraft V1 Concept Art
 
-Approved concept art references for the GridCraft V1 frontend.
+Concept art references for the GridCraft V1 frontend.
 
 ## Screens
 
@@ -11,3 +11,4 @@ Approved concept art references for the GridCraft V1 frontend.
 - `post-race-results-screen-concept-art.png` — Post-race results screen
 
 These files are design references for V1 and are not production frontend assets.
+Made with Ai for better visualization. 
