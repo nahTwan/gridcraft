@@ -34,6 +34,7 @@ Planning and product design.
 - Python for data analysis and model training
 - Docker Compose
 - GitHub Actions
+- Lovable
 
 ## Repository Layout
 
